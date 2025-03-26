@@ -1,0 +1,8 @@
+numpy
+os
+opencv-python-headless
+pandas
+tifffile
+scikit-learn
+matplotlib
+torch
