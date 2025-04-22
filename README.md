@@ -20,6 +20,8 @@ After training the WGAN-GP model, you can use the trained model (`model.pth`) to
 
 # Citations
 
+If you use our framework, model, or predictions for any academic work, please cite
+
 ```bash
 @article{lyu2025synthetic,
   title={Synthetic hyperspectral reflectance data augmentation by generative adversarial network to enhance grape maturity determination},
